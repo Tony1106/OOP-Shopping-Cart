@@ -7,3 +7,14 @@ This project run on Node and use command line to interact with
 ```bash
 npm run start
 ```
+
+# Testing 
+
+```bash
+npm install jest
+npm run test
+```
+
+# Class diagram
+
+![diagram](diagram.png)
